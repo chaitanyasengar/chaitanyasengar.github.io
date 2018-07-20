@@ -26,9 +26,10 @@ hr {
 }
 .title {
   color: #303030;
-  font-size: 60px;
+  font-size: 45px;
   padding-bottom: 40px;
   text-transform: uppercase;
+  text-align: center
 }
 
 /* START NAVIGATION */
@@ -369,7 +370,7 @@ hr {
 }
 .tm-social .media .fa {
   background: #ffffff;
-  border-radius: 2px;
+  border-radius: 50%;
   color: #707070;
   font-size: 30px;
   width: 60px;
